@@ -1,4 +1,4 @@
-My Garden Tracker - PWA & Google Play Packaging Guide
+Garden Doctor
 
 Included files:
 - index.html      (Your full Gardening App with manifest + Service Worker linked)
