@@ -1,0 +1,25 @@
+{
+  "name": "My Garden Tracker",
+  "short_name": "GardenApp",
+  "description": "AI plant doctor and natural care tracker for watering, NPK, vermicompost, seasonal blooms, and pruning.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ecfdf5",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
